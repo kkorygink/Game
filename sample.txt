@@ -1,0 +1,4 @@
+8 8   // creates a game with 8 rows and 8 columns 
+4 3   // puts a mine at row 4 column 3
+3 7   // puts a mine at row 3 column 7 
+4 5   // puts a mine at row 4 column 5
